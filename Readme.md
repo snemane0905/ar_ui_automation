@@ -8,7 +8,6 @@ This script uses Selenium WebDriver to automate the process of verifying eSIM pa
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Code Overview](#code-overview)
-- [Contributing](#contributing)
 
 ---
 
